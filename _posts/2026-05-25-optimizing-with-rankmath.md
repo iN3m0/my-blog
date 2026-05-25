@@ -57,4 +57,4 @@ Using tools like RankMath allowed me to give the club an optimized framework tha
 
 ![Our finished website!](/imgs/cbrc-website.png)
 
-Overall I am very proud with how the website turned out. I cannot wait to see it in action and hear what the community thinks. If you want to check out the site for yourself you can view it [here](http://www.cornerbrookrun.com/) 
+Overall I am very proud with how the website turned out. I cannot wait to see it in action and hear what the community thinks. If you want to check out the site for yourself you can view it [here](https://www.cornerbrookrun.com/) 
