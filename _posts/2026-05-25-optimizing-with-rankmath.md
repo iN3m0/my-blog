@@ -4,7 +4,7 @@ date: 2026-05-25 12:00:00
 categories: [SEO, Work Term]
 tags: [rankmath, web development, marketing, open source]
 image:
-  path: /assets/img/cbrc-trail.jpg
+  path: /imgs/cbrc-trail.jpg
   alt: Community trail runners navigating the scenic trail loop by the river in Corner Brook.
 ---
 
@@ -14,7 +14,7 @@ During a recent work term, I had the opportunity to build a brand new website fo
 
 To bridge the gap between code and community visibility, I integrated **RankMath SEO**.
 
-![Configuring RankMath modules.](/assets/img/rankmath-console.png)
+![Configuring RankMath modules.](/imgs/rankmath-console.png)
 
 Optimizing a local sports club site completely changed how I look at search engines. It moved SEO from a vague marketing concept I'd never heard of to a highly structured, rewarding system. Here is what I learned about SEO, structured data, and handing a project over to non-technical users.
 
@@ -42,7 +42,7 @@ Before using RankMath’s real-time content analysis, I assumed writing an updat
 * **Image Optimization:** Ensuring race route graphics and community photos had descriptive `alt` tags so they could rank in image searches.
 * **Focus Keywords:** Moving away from generic titles like "Next Race Info" and anchoring posts with phrases local athletes actually search for, like "Corner Brook Autumn 10K Registration."
 
-![The visual snippet editor and live score trackers inside RankMath](/assets/img/rankmath-edit-snippet.png)
+![The visual snippet editor and live score trackers inside RankMath](/imgs/rankmath-edit-snippet.png)
 
 ### Designing for the Handoff
 
@@ -55,6 +55,6 @@ This is where choosing a user-friendly tool paid off. Because RankMath uses a cl
 Building the site for the Corner Brook Running Club taught me that web development doesn't end when the site compiles without errors. A project is truly successful when it achieves its real-world goals.
 Using tools like RankMath allowed me to give the club an optimized framework that will continue to connect with new runners long after my work term wraps up.
 
-![Our finished website!](/assets/img/cbrc-website.png)
+![Our finished website!](/imgs/cbrc-website.png)
 
 Overall I am very proud with how the website turned out. I cannot wait to see it in action and hear what the community thinks. If you want to check out the site for yourself you can view it [here](http://www.cornerbrookrun.com/) 
