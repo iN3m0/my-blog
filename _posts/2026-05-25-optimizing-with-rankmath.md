@@ -1,5 +1,5 @@
 ---
-title: Real-World SEO : What I Learned Optimizing a Community Website
+title: Real-World SEO - What I Learned Optimizing a Community Website
 date: 2026-05-24 12:00:00
 categories: [SEO, Work Term]
 tags: [rankmath, web development, marketing, open source]
