@@ -1,5 +1,5 @@
 ---
-title: Real-World SEO - What I Learned Optimizing a Community Website
+title: Real-World SEO : What I Learned Optimizing a Community Website
 date: 2026-05-24 12:00:00
 categories: [SEO, Work Term]
 tags: [rankmath, web development, marketing, open source]
@@ -15,6 +15,7 @@ During a recent work term, I had the opportunity to build a brand new website fo
 To bridge the gap between code and community visibility, I integrated **RankMath SEO**.
 
 ![Configuring RankMath modules.](/imgs/rankmath-console.png)
+_Configuring RankMath modules._
 
 Optimizing a local sports club site completely changed how I look at search engines. It moved SEO from a vague marketing concept I'd never heard of to a highly structured, rewarding system. Here is what I learned about SEO, structured data, and handing a project over to non-technical users.
 
@@ -43,6 +44,7 @@ Before using RankMath’s real-time content analysis, I assumed writing an updat
 * **Focus Keywords:** Moving away from generic titles like "Next Race Info" and anchoring posts with phrases local athletes actually search for, like "Corner Brook Autumn 10K Registration."
 
 ![The visual snippet editor and live score trackers inside RankMath](/imgs/rankmath-edit-snippet.png)
+_The visual snippet editor and live score trackers inside RankMath_
 
 ### Designing for the Handoff
 
@@ -56,5 +58,6 @@ Building the site for the Corner Brook Running Club taught me that web developme
 Using tools like RankMath allowed me to give the club an optimized framework that will continue to connect with new runners long after my work term wraps up.
 
 ![Our finished website!](/imgs/cbrc-website.png)
+_Our finished website!_
 
 Overall I am very proud with how the website turned out. I cannot wait to see it in action and hear what the community thinks. If you want to check out the site for yourself you can view it [here](https://www.cornerbrookrun.com/) 
