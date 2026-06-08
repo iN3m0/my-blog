@@ -62,22 +62,10 @@ To run the blog locally and preview drafts:
 
 1. **Install dependencies:**
 ```bash
-
-```
-
-
-
 bundle install
-
 ```
 2. **Run the local server:**
-   ```bash
+```bash
 bundle exec jekyll serve
-
 ```
-
 3. Open `[http://127.0.0.1:4000/my-blog/](http://127.0.0.1:4000/my-blog/)` in your browser.
-
-## License
-
-This work is published under [MIT][mit] License.
