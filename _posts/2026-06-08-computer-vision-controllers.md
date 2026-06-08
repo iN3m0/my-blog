@@ -4,6 +4,7 @@ title: Building Without Buttons - Computer Vision Controllers
 date: 2026-06-08 9:15:00
 categories: [Computer Vision]
 tags: [mediapipe, opencv, python, hardware-emulation]
+math: true
 ---
 
 # Building Without Buttons: Computer Vision Controllers with MediaPipe and Python
