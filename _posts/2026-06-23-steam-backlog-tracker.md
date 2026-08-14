@@ -78,16 +78,7 @@ It shows a playtime distribution across buckets (never played, under 1 hour, 1â€
 ![The Stats Dashboard showing playtime distribution and backlog breakdown.](/imgs/steam-backlog-stats.png)
 _The Stats Dashboard showing playtime distribution and backlog breakdown._
 
-Seeing that I have over 200 hours of unplayed main story content was sobering.
-
-### Building With Claude Code
-
-This project was also my first serious use of **Claude Code**, Anthropic's CLI tool for AI-assisted development. Rather than starting from scratch, I described what I wanted to build, and Claude scaffolded the full initial architecture in a single session.
-
-The workflow was collaborative. I'd describe a feature, review the output, then follow up with specifics. Vague prompts produced generic results. Precise ones, naming the component, the data shape, the edge case, produced exactly what I needed. Claude also kept the full codebase in context, so I never had to re-explain how the IPC bridge worked when adding a new endpoint.
-
-> Using a CLI AI tool doesn't remove the need to understand what you're building. It rewards you for thinking clearly about what you want before you ask.
-{: .prompt-tip }
+Seeing that I have over 4000 hours of unplayed main story content was sobering.
 
 ### Packaging for Windows
 
